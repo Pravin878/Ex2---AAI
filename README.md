@@ -1,5 +1,5 @@
-<H3>Enter Name: HARIHARAN A</H3>
-<H3>Enter Register No: 212222100012</H3>
+<H3>Enter Name:pravin kumar G</H3>
+<H3>Enter Register No: 212222230109</H3>
 <H3>Experiment 2</H3>
 <H3>Date:04-09-2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
@@ -68,3 +68,4 @@ print(result)>
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
+
