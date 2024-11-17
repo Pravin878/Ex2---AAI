@@ -2,7 +2,7 @@
 <H3>Enter Register No: 212222230109</H3>
 <H3>Experiment 2</H3>
 <H3>Date:12-08-2024</H3>
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
+<h1 align =center> Ex :2 Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
